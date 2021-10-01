@@ -3,3 +3,7 @@ Pertemuan 1:
 - Pengantar Metodologi Rekayasa Perangkat Lunak
 - Life cycle Metodologi Rekayasa Perangkat Lunak
 - Jenis-jenis metodologi desain perangkat lunak
+Pertemuan 2:
+- Metode Waterfall
+- Pengertian Metode Waterfall
+- Implementasi kasus dengan waterfall

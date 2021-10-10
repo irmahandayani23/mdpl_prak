@@ -1,8 +1,8 @@
 Pengertian:  Metode Waterfall merupakan pendekatan SDLC paling awal yang digunakan untuk pengembangan perangkat lunak.
 Metode ini dilakukan dengan pendekatan yang sistematis, mulai dari tahap kebutuhan sistem lalu menuju ke tahap analisis, desain, coding, testing/verification, dan maintenance. 
 Tahapan:
-- Requirement Analysis
-- System and Software Design
-- Implementation and Unit Testing
-- Integration and System Testing
-- Operation and Maintenance
+- Requirement Analysis: mempersiapkan dan menganalisa kebutuhan dari software yang akan dikerjakan. Informasi dan insight yang diperoleh dapat berupa dari hasil wawancara, survei, studi literatur, observasi, hingga diskusi.
+- System and Software Design: pembuatan desain aplikasi sebelum masuk pada proses coding. Tujuan dari tahap ini, supaya mempunyai gambaran jelas mengenai tampilan dan antarmuka software yang kemudian akan dieksekusi oleh tim programmer.
+- Implementation and Unit Testing: implementasi kode program dengan menggunakan berbagai tools dan bahasa pemrograman sesuai dengan kebutuhan tim dan perusahaan
+- Integration and System Testing: masuk dalam proses integrasi dan pengujian sistem
+- Operation and Maintenance: pengoperasian dan perbaikan dari aplikasi

@@ -9,3 +9,8 @@ Tahapan:
 - Implementation and Unit Testing: implementasi kode program dengan menggunakan berbagai tools dan bahasa pemrograman sesuai dengan kebutuhan tim dan perusahaan
 - Integration and System Testing: masuk dalam proses integrasi dan pengujian sistem
 - Operation and Maintenance: pengoperasian dan perbaikan dari aplikasi
+
+Metode Penelitian:
+- Observasi
+- Wawancara
+- Studi Pustaka
